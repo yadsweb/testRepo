@@ -1,0 +1,12 @@
+title: noob
+type: object
+properties:
+  id:
+    type: string
+  name:
+    type: string
+  friend:
+    type: object
+    properties:
+      friendName:
+        type: string
